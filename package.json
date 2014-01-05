@@ -1,7 +1,7 @@
 {
-  "name": "node-express-attic",
+  "name": "express-attic",
   "version": "0.0.1",
-  "description": "An express.js middleware representing an attic with old things which may have moved",
+  "description": "An express.js middleware representing an attic of old things which may have moved",
   "main": "index.js",
   "scripts": {
     "test": "make test"
